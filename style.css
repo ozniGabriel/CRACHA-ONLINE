@@ -14,7 +14,6 @@ body {
 body {
   display: grid;
   place-items: center;
-
 }
 
 main {
@@ -44,7 +43,7 @@ main {
   z-index: 1;
 }
 
-.avatar #perfil{
+.avatar #userImage{
   width: 10rem;
   height: 11.5rem;
   object-fit: cover;
