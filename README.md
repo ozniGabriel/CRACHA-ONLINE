@@ -1,2 +1,2 @@
 # CRACHA-ONLINE
-Projeto Criado durante o NLW HEAT - MISSION ORIGIN , com o objetivo de construir uma aplicação simples e elegante voltada para Mobile, usando o básico de HTML5 e CSS3.
+Projeto Criado durante o NLW HEAT - MISSION ORIGIN , com o objetivo de construir um crachá virtual simples e elegante para o evento DoWhile 2021.
