@@ -3,10 +3,14 @@ Projeto Criado durante o NLW HEAT - MISSION ORIGIN , com o objetivo de construir
 
 ---
 
-#### Como personalizar o Crachá com minhas informações?
+#### Posso personalizar o Crachá com minhas informações?
 
-Vá ao arquivo script.js, e altere o valor das propriedades do objeto "linksSocialMedia" com as suas informações.
+Sim! Basta apenas clicar no botão "Personalizar Crachá" e digitar os dados das suas redes sociais. Esta função não estava no projeto original, foi implementada como desafio de adicionar uma melhoria na aplicação.
 
-#### Isso é o suficiente?
 
-Sim! Ao informar seus dados, o script irá consumir a API do Github que retornará um JSON com seus dados do Github, e os colocará na página.
+#### Curtiu?
+
+Me ajude a melhorar este projeto, e vamos nos conectar!
+
+[LinkedIn]('linkedin.com/ozni-gabriel')
+
