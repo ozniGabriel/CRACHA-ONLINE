@@ -17,9 +17,11 @@ body {
 }
 
 main {
-  width: 23rem;
-  height: 50rem;
-  background: url(images/background.png);
+  width: 100vw;
+  /* 100 vw significa que ele vai ser virar pra deixar ajustavél em toda a tela */
+  height: 100vw;
+  min-height: 812px;
+  background: url(images/background.png) no-repeat center/cover;
 }
 
 .container {
@@ -43,11 +45,12 @@ main {
   z-index: 1;
 }
 
-.avatar #userImage{
+.avatar #userImage {
   width: 10rem;
   height: 11.5rem;
   object-fit: cover;
-  clip-path: polygon(50% 0, 99% 26%, 100% 80%, 50% 100%, 0 80%, 0 26%); /*para criar este poligono acesse: https://bennettfeely.com/clippy/*/
+  clip-path: polygon(50% 0, 99% 26%, 100% 80%, 50% 100%, 0 80%, 0 26%);
+  /*para criar este poligono acesse: https://bennettfeely.com/clippy/*/
 }
 
 h1 {
