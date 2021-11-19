@@ -12,5 +12,6 @@ Sim! Basta apenas clicar no botão "Personalizar Crachá" e digitar os dados das
 
 Me ajude a melhorar este projeto, e vamos nos conectar!
 
-[LinkedIn](https://linkedin.com/in/ozni-gabriel)
+<a href="https://www.linkedin.com/in/ozni-gabriel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 
